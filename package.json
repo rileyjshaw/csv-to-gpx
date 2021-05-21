@@ -1,0 +1,12 @@
+{
+  "name": "csv-to-gpx",
+  "version": "1.0.0",
+  "main": "convert.js",
+  "author": "rileyjshaw",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "gpx-builder": "^3.6.43"
+  }
+}
