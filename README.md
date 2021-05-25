@@ -5,7 +5,7 @@ _For Barry._
 Takes a CSV in the format:
 
 ```
-time (seconds since epoch), latitude, longitude, elevation[, …etc.]
+D,<time (seconds since epoch)>,<latitude>,<longitude>,<elevation>,<speed>,<heart rate>[, …etc.]
 ```
 
 and outputs a Garmin-flavored .gpx file.
