@@ -7,6 +7,6 @@
   "private": true,
   "dependencies": {
     "csv-parser": "^3.0.0",
-    "gpx-builder": "^3.6.43"
+    "gpx-builder": "^3.6.44"
   }
 }
